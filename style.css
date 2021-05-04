@@ -1,0 +1,18 @@
+p{
+    color: hsl(326, 100%, 1%);
+}
+h3{
+    color: navy;
+}
+*{
+    background-color: violet;
+}
+.images{
+    display:flex;
+    flex-direction:row;
+justify-content: space-between;
+}
+img {
+    border: darkslateblue  10px  solid;
+    border-radius: 20px;
+}
